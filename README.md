@@ -12,6 +12,7 @@
 
 * 👨‍💻 **I use daily :** `.luau`, `.py`, `.c`
 * ⚡ **EE & Automation :** `PLC Ladder Diagram`, `Automation Studio`, `Electrical Machines`
+* 💵 **My Business :** phantom Automation & PLC
 * 📈 **XAU/USD Trader :** 
 * ✍️ **Fav Anime :** One piece | Mushoku Tensei
 * 🖤 **Aesthetics :** All-Black Minimalist | Dark Academia | High-End Streetwear
